@@ -79,5 +79,5 @@ This project is open-source under the MIT License.
 ## Author
 
 - K.Keeththigan
-- GitHub: Keeththi2003
+- GitHub: github.com/Keeththi2003
 - keeththi2003@gmail.com
